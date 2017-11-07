@@ -36,6 +36,10 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "java-sandbox"
+    "dest": "java-sandbox",
+    "exportRawModel": true,
+    "rawModelOutputFolder": "../_model",
+    "exportViewModel": true,
+    "viewModelOutputFolder": "../_viewmodel"
   }
 }
