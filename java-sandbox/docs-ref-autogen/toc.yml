@@ -1,0 +1,28 @@
+### YamlMime:TableOfContent
+- uid: "com.microsoft.store.partnercenter"
+  name: "com.microsoft.store.partnercenter"
+- uid: "com.microsoft.store.partnercenter.domains"
+  name: "com.microsoft.store.partnercenter.domains"
+  items:
+  - uid: "com.microsoft.store.partnercenter.domains.DomainCollectionOperations"
+    name: "DomainCollectionOperations"
+- uid: "com.microsoft.store.partnercenter.network"
+  name: "com.microsoft.store.partnercenter.network"
+  items:
+  - uid: "com.microsoft.store.partnercenter.network.PartnerServiceClient"
+    name: "PartnerServiceClient"
+- uid: "com.microsoft.store.partnercenter"
+  name: "com.microsoft.store.partnercenter"
+  items:
+  - uid: "com.microsoft.store.partnercenter.BasePartnerComponentString"
+    name: "BasePartnerComponentString"
+- uid: "com.microsoft.store.partnercenter.models.query.filters"
+  name: "com.microsoft.store.partnercenter.models.query.filters"
+  items:
+  - uid: "com.microsoft.store.partnercenter.models.query.filters.FieldType"
+    name: "FieldType"
+- uid: "com.microsoft.store.partnercenter.network"
+  name: "com.microsoft.store.partnercenter.network"
+  items:
+  - uid: "com.microsoft.store.partnercenter.network.HttpStatusCode"
+    name: "HttpStatusCode"
